@@ -2,7 +2,7 @@ PHP client library zen.com api
 
 ## Installation
 ```bash
-composer require kovlcode/zen
+composer require kovlcode/zen:@dev
 ```
 
 ### Example usage
