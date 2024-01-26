@@ -1,0 +1,21 @@
+{
+    "name": "kovlcode/zen",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kovlcode\\Zen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir Kozlov",
+            "email": "vladimir02.kozlov91@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.3",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
